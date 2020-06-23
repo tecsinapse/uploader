@@ -1,7 +1,8 @@
 # Iniciando
 
-[![Build Status](https://travis-ci.org/tecsinapse/uploader.svg?branch=master)](https://travis-ci.org/tecsinapse/uploader)
+Moved to https://github.com/tecsinapse/ui-kit
 
+[![Build Status](https://travis-ci.org/tecsinapse/uploader.svg?branch=master)](https://travis-ci.org/tecsinapse/uploader)
 
 
 ***@tecsinapse/uploader*** é uma biblioteca contendo componentes de Upload para facilitar a vida do dev react ;)
